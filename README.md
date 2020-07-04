@@ -1,4 +1,4 @@
-## Installation
+## Installation of react using create-react-app
 
 ```shell
 $ npx create-react-app app-name
